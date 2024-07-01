@@ -48,6 +48,9 @@ Follow these steps to set up and run the application:
 
 7. **Open your web browser and go to `http://localhost:8000`.**
 
+## Dataset
+https://www.kaggle.com/datasets/krupadharamshi/fuelconsumption?resource=download
+
 ## Usage
 
 1. Enter the engine size (in liters) and fuel consumption (in liters per 100 kilometers).
