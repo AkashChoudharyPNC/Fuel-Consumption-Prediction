@@ -51,7 +51,10 @@ Follow these steps to set up and run the application:
 ## Usage
 
 1. Enter the engine size (in liters) and fuel consumption (in liters per 100 kilometers).
+![FCP1](https://github.com/AkashChoudharyPNC/Fuel-Consumption-Prediction/assets/110199875/0b924613-75c9-4202-bd4b-f6e5aaeab406)
+
 2. Click the "Predict" button to get the predicted CO2 emissions.
+![FCP2](https://github.com/AkashChoudharyPNC/Fuel-Consumption-Prediction/assets/110199875/e95b81bf-579a-4466-8141-314a14230e8e)
 
 ## Project Structure
 
