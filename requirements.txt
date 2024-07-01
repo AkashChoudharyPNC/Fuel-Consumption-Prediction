@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+jinja2
+pydantic
+pandas
+jupyter
+ipykernel
